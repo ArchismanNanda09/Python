@@ -1,0 +1,36 @@
+,vend_num,vend_name,inv_dt,due_dt,inv_amt,net_amt,description
+0,200,United Parcel Service,2022-03-24,2022-06-24,75.00,75.00,Overnight document delivery
+1,200,United Parcel Service,2022-03-25,2022-06-25,75.00,75.00,Postage
+2,200,United Parcel Service,2022-07-24,2022-07-24,75.00,75.00,Overnight document delivery
+3,202,"Software Technology, LLC",2022-08-18,2022-08-23,490.00,490.00,Software Maintenance Agreement Tabs3
+4,202,"Software Technology, LLC",2022-08-18,2022-08-23,239.00,239.00,Software Maintenance Agreement Tabs3 General Ledger
+5,202,"Software Technology, LLC",2022-08-18,2022-08-23,239.00,239.00,Software Maintenance Agreement Tabs3 Accounts Payable
+6,202,"Software Technology, LLC",2022-08-18,2022-08-23,239.00,239.00,Software Maintenance Agreement Tabs3 Trust Accounting
+7,202,"Software Technology, LLC",2022-08-18,2022-08-23,800.00,800.00,Software Maintenance Agreement PracticeMaster (9 Users)
+8,202,"Software Technology, LLC",2022-08-18,2022-08-23,105.00,105.00,Software Maintenance Agreement Tabs3 Taskbill
+9,202,"Software Technology, LLC",2022-08-23,2022-08-28,205.00,205.00,Purchase Tabs3 Device Interface Program
+10,203,Clerk of the County Court,2022-04-24,2022-04-24,225.00,225.00,"Documentation Fee, Filing Fee, and Sheriff Service Fee"
+11,204,Clerk of the District Court,2022-03-25,2022-03-25,75.00,75.00,Filing fee
+12,204,Clerk of the District Court,2022-05-18,2022-05-18,75.00,75.00,Filing fee
+13,204,Clerk of the District Court,2022-08-18,2022-08-18,150.00,150.00,Petition for Dissolution of Marriage Filing Fee
+14,225,Jackson/Wylinda,2021-12-22,2021-12-22,750.00,750.00,Holiday Party
+15,225,Jackson/Wylinda,2022-07-24,2022-07-24,"1,500.00","1,500.00",Catering/Firm Retreat
+16,240,NELCO,2022-07-24,2022-08-24,129.85,129.85,Check order for APS and TAS Checks
+17,250,D & B Real Estate Management Company,2022-07-20,2022-07-20,"7,500.00","7,500.00","Monthly Rent (Including Electric, Gas & Garbage)"
+18,250,D & B Real Estate Management Company,2022-07-24,2022-07-24,"7,500.00","7,500.00","Monthly Rent (Including Electric, Gas & Garbage)"
+19,250,D & B Real Estate Management Company,2022-08-11,2022-08-11,10.00,10.00,Duplicate Key for building
+20,300,Thomson Reuters Payment Center,2022-04-23,2022-04-23,4.00,4.00,Online Legal Research
+21,300,Thomson Reuters Payment Center,2022-05-22,2022-05-22,75.00,75.00,Online Legal Research
+22,300,Thomson Reuters Payment Center,2022-06-23,2022-06-23,40.00,40.00,Online Legal Research
+23,300,Thomson Reuters Payment Center,2022-07-27,2022-07-27,4.00,4.00,Online Legal Research
+24,300,Thomson Reuters Payment Center,2022-07-28,2022-07-28,50.00,50.00,Online Legal Research
+25,300,Thomson Reuters Payment Center,2022-07-28,2022-07-28,50.00,50.00,Online Legal Research
+26,300,Thomson Reuters Payment Center,2022-07-28,2022-07-28,50.00,50.00,Online Legal Research
+27,300,Thomson Reuters Payment Center,2022-07-28,2022-07-28,50.00,50.00,Online Legal Research
+28,325,Professional Messenger Services,2022-06-19,2022-06-19,20.00,20.00,Courier Fee
+29,325,Professional Messenger Services,2022-06-22,2022-06-22,25.00,25.00,Courier Fee
+30,325,Professional Messenger Services,2022-08-23,2022-08-23,47.50,47.50,Courier Fee
+31,325,Professional Messenger Services,2022-08-23,2022-08-23,35.00,35.00,Courier Fee
+32,400,Sprint Local & Long Distance,2022-08-18,2022-08-23,68.96,68.96,November Cell Phone Charges
+33,700,Clean All Janitorial Services,2022-07-20,2022-07-23,750.00,750.00,Monthly Cleaning Charges (Bi-Weekly Service)
+34,700,Clean All Janitorial Services,2022-07-24,2022-08-23,750.00,750.00,Monthly Cleaning Charges (Bi-Weekly Service)
